@@ -1,3 +1,3 @@
 Disclaimer:
 
-	Work for me in the browser I use.
+	Works for me in the browser I use.
